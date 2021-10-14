@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tuicher
 - 👀 I’m interested on Videogames.
 - 🌱 I’m currently studiying in Madrid. More concretely: Gº en Diseño y Desarrollo de Videjuegos (Universidad Rey Juan Carlos)
-- 📫 How to reach me on twitter @tuicher or on my email.
+- 📫 reach me on twitter @tuicher or on my email.
 
 <!---
 tuicher/tuicher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
