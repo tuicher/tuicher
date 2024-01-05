@@ -3,9 +3,10 @@
 ![GitHub followers](https://img.shields.io/github/followers/tuicher?style=social)
 
 - 👋 Hi, I’m @tuicher
-- 👀 I’m interested on Videogames.
-- 🌱 I’m currently studiying in Madrid. More concretely: Gº en Diseño y Desarrollo de Videjuegos (Universidad Rey Juan Carlos)
-- 📫 reach me on twitter @tuicher or on my email.
+- 👀 I’m passionate about videogame development, web development, and simulating physical effects in games.
+- 🎓 I have a degree in Game Design and Development from Universidad Rey Juan Carlos, Madrid.
+- 🌱 I’m currently pursuing a Master's degree in Computer Graphics, Games, and Virtual Reality at Móstoles.
+- 📫 Reach me on Twitter @tuicher or via email.
 
 <!---
 tuicher/tuicher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
