@@ -1,5 +1,4 @@
 ![Website](https://img.shields.io/website?down_color=red&down_message=offlilne&label=Personal%20site&up_color=lightgreen&up_message=online&url=https%3A%2F%2Ftuicher.github.io%2F)
-![Twitter Follow](https://img.shields.io/twitter/follow/tuicher?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/tuicher?style=social)
 
 - 👋 Hi, I’m @tuicher
